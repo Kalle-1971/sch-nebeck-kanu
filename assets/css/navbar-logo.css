@@ -2,6 +2,6 @@
 .navbar-logo {
     height: 4px;      /* Passe die Höhe nach Wunsch an */
     width: auto;
-    object-fit: contain;
+
     vertical-align: middle;
 }
